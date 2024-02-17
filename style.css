@@ -1,0 +1,53 @@
+.heading
+{
+    text-align: center;
+    display: block;
+}
+img
+{
+    width: 150px;
+    margin-right: 5px;
+    border-radius: 50%;
+    border:2px solid black;
+}
+.images
+{
+    text-align: center;
+}
+.attr:hover
+{
+    opacity: 0.7;
+    
+}
+.new{
+    transform: scale(0.8);
+}
+.bottom
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(151, 199, 241);
+    font-size: 32px;
+}
+.result
+{
+    display: block;
+    text-align: center;
+    font-size: 32px;
+    color: cadetblue;
+}
+#computer
+{   text-align: center;
+    font-size: 32px;
+    color: cadetblue;
+    background-color: rgb(208, 237, 237);
+    
+}
+#you
+{
+    text-align: center;
+    font-size: 32px;
+    color: cadetblue;
+    background-color: rgb(208, 237, 237);
+}
